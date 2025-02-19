@@ -17,6 +17,7 @@ This 𝗼𝗻𝗲-𝗽𝗮𝗴𝗲 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 provides
 ✅ Tottenham
 
 It helps football enthusiasts analyze:
+
 • Team rankings over different matchweeks
 
 • Wins, losses, and draws throughout the season
