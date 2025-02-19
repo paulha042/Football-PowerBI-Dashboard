@@ -1,24 +1,36 @@
-# Football PowerBI Dashboard
+# Building Football PowerBI Dashboard ⚽ ⚽ 
 
 𝟭. 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+
 This 𝗼𝗻𝗲-𝗽𝗮𝗴𝗲 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 provides an overview of key statistics for the 𝗕𝗶𝗴 𝟲 𝘁𝗲𝗮𝗺𝘀 in the English Premier League:
+
 ✅ Arsenal
+
 ✅ Chelsea
+
 ✅ Liverpool
+
 ✅ Manchester City
+
 ✅ Manchester United
+
 ✅ Tottenham
 
 It helps football enthusiasts analyze:
 • Team rankings over different matchweeks
+
 • Wins, losses, and draws throughout the season
+
 • Goals scored and conceded
+
 • Individual player performances
 
 𝟮. 𝗛𝗼𝘄 𝗜 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗲𝗱 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮
+
 I gathered data from FBRef, a comprehensive football statistics website, using P𝘆𝘁𝗵𝗼𝗻 𝘄𝗲𝗯 𝘀𝗰𝗿𝗮𝗽𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗮𝗻𝗱 𝗕𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹𝗦𝗼𝘂𝗽. The script extracts team, players, match data for the 2024/2025 season.
 
 𝟯. 𝗛𝗼𝘄 𝗜 𝗕𝘂𝗶𝗹𝘁 𝘁𝗵𝗶𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 
+
 Since the data was already clean before web scraping, minimal data cleaning was required. I remembered I only changed the data types of the columns before loading them into the model.
 
 During this dashboard development, I primarily use DAX to create new measures for my visuals. Also, I also use Power Query to create calculated columns or edit data when there was something wrong with my measures.
